@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.hero-section{
+  background-image:url(../Image/Header_bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+#logo{
+  color: blue;
+}
